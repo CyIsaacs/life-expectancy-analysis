@@ -56,4 +56,10 @@ composition).
   non-normality in the tails, likely reflecting the diversity of countries
   in the sample.
 
-## Repo structure
+## Tools
+
+Python · pandas · numpy · statsmodels · seaborn · matplotlib
+
+---
+*This is coursework for PSTAT 100 (Data Science Concepts and Analysis) at UC
+Santa Barbara. Shared for portfolio purposes.*
